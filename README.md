@@ -15,6 +15,8 @@ The app isn't code-signed yet, so Windows may say "Windows protected your PC". P
 
 No admin rights are needed. If Git, Node.js or pnpm are missing, Flipper puts private copies in `%USERPROFILE%\Flipper\tools` and leaves your system PATH alone.
 
+**Never used Vencord?** You don't need to set it up first. Flipper installs Vencord for you, about 3 to 5 minutes.
+
 **Needs:** Windows 10 or 11 and the Discord desktop app.
 
 ## What's in the pack
