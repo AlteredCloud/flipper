@@ -4,7 +4,7 @@ Flipper sets up Flipper's Vencord plugin pack on a Windows PC and keeps it worki
 
 ## Download
 
-Get **Flipper-Setup-x.y.z.exe** from the [latest release](../../releases/latest).
+**[Download Flipper for Windows](https://github.com/AlteredCloud/flipper/releases/latest/download/Flipper-Setup.exe)** (always the newest version)
 
 ## Install
 
